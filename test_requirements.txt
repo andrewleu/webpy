@@ -10,3 +10,4 @@ mysql-connector-python>=8.0.19
 
 # pgsql
 psycopg2>=2.8.4
+protobuf>=3.18.3 # not directly required, pinned by Snyk to avoid a vulnerability
