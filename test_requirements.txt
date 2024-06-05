@@ -6,7 +6,7 @@ pytest>=5.4.1
 # mysql
 mysqlclient>=1.4.6
 PyMySQL>=0.9.3
-mysql-connector-python>=8.0.19
+mysql-connector-python>=8.4.0
 
 # pgsql
 psycopg2>=2.8.4
